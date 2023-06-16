@@ -30,7 +30,7 @@ pip3 install pyfiglet
 python3 main.py
 ```
 ## Options
-![Gud Baldr Password Checker Image](https://github.com/sercanradulfr/Gud-Baldr-Encryption-And-Decryption/edit/main/gbeandd.png "Gud Baldr Encryption And Decryption Image")
+![Gud Baldr Password Checker Image](https://github.com/sercanradulfr/Gud-Baldr-Encryption-And-Decryption/blob/main/gbeandd.png "Gud Baldr Encryption And Decryption Image")
 
 
 
