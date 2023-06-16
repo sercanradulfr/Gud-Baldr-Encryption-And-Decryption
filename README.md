@@ -24,8 +24,8 @@ Here's an of a cyber security tool implemented in Python that performs a basic e
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://en.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/sercanradulfr/Gud-Baldr-Password-Checker.git
-cd Gud-Baldr-Password-Checker
+git clone https://github.com/sercanradulfr/Gud-Baldr-Encryption-And-Decryption.git
+cd Gud-Baldr-Encryption-And-Decryption
 pip3 install pyfiglet
 python3 main.py
 ```
